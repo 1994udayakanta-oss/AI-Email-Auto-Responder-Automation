@@ -1,3 +1,4 @@
+<img width="1278" height="586" alt="architecture" src="https://github.com/user-attachments/assets/60ed2226-bc14-41b5-9ede-8c0be57fa194" />
 AI Email Auto-Responder Automation
 
 Overview
