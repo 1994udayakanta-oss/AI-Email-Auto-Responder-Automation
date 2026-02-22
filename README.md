@@ -1,13 +1,13 @@
 <img width="1278" height="586" alt="architecture" src="https://github.com/user-attachments/assets/60ed2226-bc14-41b5-9ede-8c0be57fa194" />
-AI Email Auto-Responder Automation
+**AI Email Auto-Responder Automation**
 
-Overview
+**Overview**
 
 The AI Email Auto-Responder is an automation system that automatically reads customer inquiries, generates professional email replies using artificial intelligence, and sends responses instantly without manual intervention.
 
 This project uses Make.com, OpenAI, Google Sheets, and Gmail to create a fully automated email response workflow suitable for real business environments.
 
-Features
+**Features**
 
 Automatically detects new customer inquiries
 
@@ -24,7 +24,7 @@ Fully automated workflow
 Scalable for business use
 
 
-How It Works
+**How It Works**
 
 
 A new customer inquiry is added to Google Sheets
@@ -40,13 +40,13 @@ Gmail automatically sends the reply to the customer
 The system updates the processing status
 
 
-Workflow Architecture
+**Workflow Architecture**
 
 
 Google Sheets → Make.com → OpenAI → Google Sheets → Gmail
 
 
-Technologies Used
+**Technologies Used**
 
 
 Make.com (Automation platform)
@@ -58,7 +58,7 @@ Google Sheets (Database)
 Gmail (Email delivery)
 
 
-Use Cases
+**Use Cases**
 
 
 Customer support automation
@@ -72,7 +72,7 @@ Appointment request replies
 Service inquiry responses
 
 
-Business Benefits
+**Business Benefits**
 
 
 Reduces manual workload
@@ -86,14 +86,14 @@ Enables 24/7 automated email responses
 Improves customer experience
 
 
-Project Status
+**Project Status**
 
 
 Portfolio Project – Production Ready
 
 
 
-Author
+**Author**
 Arunasiri Udayakantha
 
 AI Automation Developer
